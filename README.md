@@ -1,7 +1,6 @@
 # Stock Portfolio Tracker
 A simple stock tracker that calculates total investment based on manually defined stock prices. 
 
-
 A beginner-friendly Python project that calculates total investment value using manually defined stock prices.
 
 ## Features
@@ -32,12 +31,12 @@ Example stocks included in the project:
 
 ## How to Run
 
-1. Save the file as `portfolio_tracker.py`
+1. Save the file as `stock_portfolio_tracker.py`
 2. Open terminal or command prompt
 3. Run:
 
 ```bash
-python portfolio_tracker.py
+python stock_portfolio_tracker.py
 ```
 
 
