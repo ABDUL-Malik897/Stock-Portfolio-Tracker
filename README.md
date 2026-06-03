@@ -2,12 +2,6 @@
 A simple stock tracker that calculates total investment based on manually defined stock prices. 
 
 
-
----
-
-
-
-```
 A beginner-friendly Python project that calculates total investment value using manually defined stock prices.
 
 ## Features
@@ -45,3 +39,29 @@ Example stocks included in the project:
 ```bash
 python portfolio_tracker.py
 ```
+
+
+## Example Output
+```
+Enter stock name: AAPL
+Enter quantity: 2
+
+Investment Amount: $360
+```
+
+ ## Output File
+
+The project automatically creates:
+```
+portfolio_summary.txt
+```
+
+This file stores the portfolio details and total investment value.
+
+### Project Objective
+
+The purpose of this project is to understand how Python dictionaries and file handling work in real-world scenarios.
+
+### Author
+
+Created by ```Abdul```
