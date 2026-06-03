@@ -52,7 +52,7 @@ Investment Amount: $360
 
 The project automatically creates:
 ```
-portfolio_summary.txt
+portfolio.txt
 ```
 
 This file stores the portfolio details and total investment value.
@@ -63,4 +63,4 @@ The purpose of this project is to understand how Python dictionaries and file ha
 
 ### Author
 
-Created by ```Abdul```
+Created by ``` ## Abdul```
