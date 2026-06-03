@@ -1,7 +1,7 @@
 # Stock Portfolio Tracker
 A simple stock tracker that calculates total investment based on manually defined stock prices. 
 
-A beginner-friendly Python project that calculates total investment value using manually defined stock prices.
+It's a beginner-friendly Python project that calculates total investment value using manually defined stock prices.
 
 ## Features
 - User enters stock names and quantity
